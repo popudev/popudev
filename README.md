@@ -10,10 +10,9 @@ I'm from Vietnam and my goal is to become a software engineer.
 ```js
 class Popu {
   constructor() {
-      this.fullName = "Chau Phu Thinh";
-      this.school =  "SGU K20";
-      this.hobbies = ["coding", "anime"];
-    }
+     this.fullName = "Chau Phu Thinh";
+     this.school =  "SGU K20";
+     this.hobbies = ["coding", "anime"];
   }
 
   eat() {
