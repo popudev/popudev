@@ -2,6 +2,8 @@
 
 # Hello, I'm Popu :#3 <img width='100px' src="logo.png">
 
+<a href=https://www.facebook.com/thinh.phu.353250> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
+
 My name is Popu and I'm studying Saigon University.  
 I'm from Vietnam and my goal is to become a software engineer.
 
