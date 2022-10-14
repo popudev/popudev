@@ -1,6 +1,6 @@
 <img src="https://www.charpeni.com/_next/image?url=%2Fstatic%2Fimages%2Farrow-functions-in-class-properties-might-not-be-as-great-as-we-think%2Fbanner.gif&w=1920&q=75">
 
-# Hello, I'm Popu :#3 <img width='100px' src="icon.png">
+# Hello, I'm Popu :#3 <img width='100px' src="logo.png">
 
 My name is Popu and I'm studying Saigon University.  
 I'm from Vietnam and my goal is to become a software engineer.
