@@ -1,6 +1,6 @@
-<img src="https://www.charpeni.com/_next/image?url=%2Fstatic%2Fimages%2Farrow-functions-in-class-properties-might-not-be-as-great-as-we-think%2Fbanner.gif&w=1920&q=75">
+<img src="images/banner.gif">
 
-# Hello, I'm Popu :#3 <img width='100px' src="logo.png">
+# Hello, I'm Popu :#3 <img width='100px' src="images/logo.png">
 
 My name is Popu and I'm studying Saigon University.  
 I'm from Vietnam and my goal is to become a software engineer.
@@ -8,27 +8,26 @@ I'm from Vietnam and my goal is to become a software engineer.
 ```js
 class Popu {
   constructor() {
-      this.fullName = "Chau Phu Thinh";
-      this.school =  "SGU K20";
-      this.hobbies = ["coding", "anime"];
-    }
+    this.fullName = "Chau Phu Thinh";
+    this.school = "SGU K20";
+    this.hobbies = ["coding", "anime"];
   }
 
   eat() {
-     console.log("I eat everything that can be eaten");
+    console.log("I eat everything that can be eaten");
   }
 
   coding() {
-     console.log("I don't need anyone but Code");
+    console.log("I don't need anyone but Code");
   }
 
   sleep() {
-     console.log("zzz....");
+    console.log("zzz....");
   }
 }
 ```
 
-<p align=center ><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></p>
+<p align=center ><img src="images/coding.gif"></p>
 
 ## Frameworks - Platforms - Libraries:
 
